@@ -10,7 +10,7 @@
 <br>
 
 **32-bit RISC-V Instruction Set Architecture (ISA) Implementation**<br>
-단일 사이클(Single-Cycle) 구조의 CPU 코어와 Harvard Architecture 기반의 메모리 서브시스템 설계
+단일 사이클(Single-Cycle) 구조의 CPU 코어와 Harvard Architecture 기반의 메모리 설계
 
 </div>
 
